@@ -1,4 +1,6 @@
-【rust语言编写的】批量构建 cf workers 的 vless 节点，提供IP或域名到ip.txt文件，运行exe程序按提示操作即可。
+【rust语言编写的】批量构建 cf workers 的 vless 节点，提供IP或域名到ip.txt文件，运行[exe程序](https://github.com/juerson/build_vless_nodes_rust/releases/download/1.0/build_vless_nodes-x86_64-pc-windows-msvc.exe)按提示操作即可。
+
+
 
 
 
