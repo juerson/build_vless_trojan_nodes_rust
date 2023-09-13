@@ -4,7 +4,7 @@
 
 <img src="images/config的配置信息.png" />
 
-**注意：**填写host值，如果使用`*.workers.dev`的域名，程序默认生成的vless链接没有tls加密的；添加非`workers.dev`后缀的域名，才能生成有tls加密信息的链接。
+注意：填写host值，如果使用`*.workers.dev`的域名，程序默认生成的vless链接没有tls加密的；添加非`workers.dev`后缀的域名，才能生成有tls加密信息的链接。
 
 ## 2、程序运行效果截图
 
