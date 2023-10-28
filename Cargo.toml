@@ -10,10 +10,5 @@ edition = "2021"
 serde = "1.0.188"
 serde_json = "1.0.105"
 
-
-
-# 针对 x86_64-pc-windows-msvc 目标平台编译
 [target.x86_64-pc-windows-msvc]
 rustflags = ["-C", "target-feature=+crt-static"]
-
-[target.x86_64-pc-windows-gnu]
