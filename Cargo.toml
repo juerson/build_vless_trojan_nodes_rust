@@ -9,6 +9,7 @@ edition = "2021"
 [dependencies]
 serde = "1.0.188"
 serde_json = "1.0.105"
+regex = "1.10.2"
 
 [target.x86_64-pc-windows-msvc]
 rustflags = ["-C", "target-feature=+crt-static"]
