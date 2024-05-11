@@ -1,16 +1,19 @@
-use regex::Regex;
-use std::borrow::Cow;
-use std::fs;
-use std::fs::File;
-use std::io;
-use std::io::BufRead;
-use std::io::Write;
-use std::path::Path;
 use indexmap::IndexSet;
 use ipnetwork::IpNetwork;
+use regex::Regex;
+use std::{
+    borrow::Cow,
+    fs::{self, File},
+    io::{self, BufRead, Write},
+    path::Path,
+};
 
 fn main() {
-    println!("本工具的功能：将TXT文件中数据，组成新的vless链接，实现一条vless链接，扩展无数条vless链接。\n");
+    println!("批量生成vless/trojan链接的版本！");
+    println!("本工具的功能：将TXT文件中数据，组成新的vless/trojan链接，实现一条vless/trojan链接，扩展无数条vless/trojan链接。\n");
+    println!("------------------------------------------------------------------------------------------------------------------------");
+    println!("设置默认端口的建议：\n非TLS模式：80, 8080, 8880, 2052, 2082, 2086, 2095\n是TLS模式：443, 2053, 2083, 2087, 2096, 8443");
+    println!("------------------------------------------------------------------------------------------------------------------------");
     let filename = "ip.txt";
     if !is_file_existing_and_non_empty(filename) {
         println!("文件{}不存在或者文件为空！", filename);
@@ -21,6 +24,8 @@ fn main() {
         println!("192.168.1.1 443");
         println!("192.168.1.1,443");
         println!("192.168.1.1,443,字段a,字段b,字段c,...");
+        println!("time.cloudflare.com");
+        println!("ip.sb 2053");
         println!("{}", "+".repeat(50));
         wait_for_enter();
         std::process::exit(1);
@@ -70,24 +75,28 @@ fn main() {
     let file_name = "output.txt";
     write_to_file(new_link_vec, file_name);
 
-    println!("\n生成的vless链接已经写入{}文件中！", file_name);
+    println!("\n生成的vless/trojan链接已经写入{}文件中！", file_name);
 
     wait_for_enter();
 }
 
-/* 获取用户输入的vless链接 */
+/* 获取用户输入的vless/trojan链接 */
 fn get_linke_from_user_input() -> String {
     loop {
         let mut link = String::new();
-        print!("输入vless链接>> "); // 输入一个可用的vless节点
+        print!("输入vless/trojan链接>> "); // 输入一个可用的vless/trojan节点
         io::stdout().flush().unwrap();
         link.clear(); // 清空字符串变量的内容
         std::io::stdin().read_line(&mut link).expect("读取输入失败");
         link = link.trim().to_string();
-        // 判断输入的vless链接是否以"vless://"开头而且只有一个"vless://"，而且链接长度大于100
         if link.to_lowercase().starts_with(r"vless://")
-            && Regex::new(r"vless://").unwrap().find_iter(&link).count() == 1
-            && link.len() > 100
+            || link.to_lowercase().starts_with(r"trojan://")
+                && Regex::new(r"vless://|trojan://")
+                    .unwrap()
+                    .find_iter(&link)
+                    .count()
+                    == 1
+                && link.len() > 50
         {
             return link; // 跳出死循环
         } else {

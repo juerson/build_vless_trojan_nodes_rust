@@ -11,7 +11,7 @@ use std::{
 use urlencoding::encode;
 
 fn main() {
-    let files = vec!["conf.json", "ip.txt"];
+    let files = vec!["config.json", "ip.txt"];
     let file = File::open(files[0]).expect("Failed to open file");
     let conf: serde_json::Value = serde_json::from_reader(file).expect("Failed to parse JSON");
     /* 获取json中字段的值 */

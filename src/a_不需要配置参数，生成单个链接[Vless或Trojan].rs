@@ -1,15 +1,15 @@
+use clipboard::{ClipboardContext, ClipboardProvider};
 use regex::Regex;
-use std::io;
-use std::io::Write;
-use std::net::{Ipv4Addr, Ipv6Addr};
-use clipboard::ClipboardContext;
-use clipboard::ClipboardProvider;
+use std::{
+    io::{self, Write},
+    net::{Ipv4Addr, Ipv6Addr},
+};
 
 fn main() {
-    println!("本程序的用途：生成VLESS节点链接，只需要提供一条完整的VLESS链接，一个IP地址/域名以及端口，即可生成全新的vless链接。");
-
+    println!("逐条生成vless/trojan链接的版本！");
+    println!("本程序的用途：只需要提供一条完整的vless/trojan链接，一个IP地址/域名以及端口，即可生成全新的vless/trojan链接。");
     println!("------------------------------------------------------------------------------------------------------------------------");
-    println!("设置默认端口的建议：\n非TLS模式：80, 8080, 8880, 2052, 2082, 2086, 2095\n是TLS模式：443, 2053, 2083, 2087, 2096, 8443");
+    println!("设置端口的建议：\n非TLS模式：80, 8080, 8880, 2052, 2082, 2086, 2095\n是TLS模式：443, 2053, 2083, 2087, 2096, 8443");
     println!("------------------------------------------------------------------------------------------------------------------------");
     // 获取用户输入的link链接
     let link = get_linke_from_user_input();
@@ -46,7 +46,7 @@ fn main() {
             "{}{}{}{}",
             before_string, address, parameter_string, remarks
         );
-        println!("- - - - - - - - - - - - - - - - - - - - - - - - - 生成的vless链接如下：- - - - - - - - - - - - - - - - - - - - - - - - -");
+        println!("- - - - - - - - - - - - - - - - - - - - - - - 生成的vless/trojan链接如下： - - - - - - - - - - - - - - - - - - - - - - -");
         println!("{}", new_link);
         // 复制到剪贴板
         let mut clipboard: ClipboardContext = ClipboardProvider::new().unwrap();
@@ -60,15 +60,20 @@ fn main() {
 fn get_linke_from_user_input() -> String {
     loop {
         let mut link = String::new();
-        print!("输入vless链接>> "); // 输入一个可用的vless节点
+        print!("输入vless/trojan链接>> "); // 输入一个可用的vless节点
         io::stdout().flush().unwrap();
         link.clear(); // 清空字符串变量的内容
         std::io::stdin().read_line(&mut link).expect("读取输入失败");
         link = link.trim().to_string();
-        // 判断输入的vless链接是否以"vless://"开头而且只有一个"vless://"，而且链接长度大于100
+        // 判断输入的vless链接是否以"vless://"开头而且只有一个"vless://" 或 "trojan://"，而且链接长度大于50
         if link.to_lowercase().starts_with(r"vless://")
-            && Regex::new(r"vless://").unwrap().find_iter(&link).count() == 1
-            && link.len() > 100
+            || link.to_lowercase().starts_with(r"trojan://")
+                && Regex::new(r"vless://|trojan://")
+                    .unwrap()
+                    .find_iter(&link)
+                    .count()
+                    == 1
+                && link.len() > 50
         {
             return link; // 跳出死循环
         } else {

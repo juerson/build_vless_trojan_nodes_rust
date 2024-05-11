@@ -2,23 +2,23 @@ use indexmap::IndexSet;
 use ipnetwork::IpNetwork;
 use std::{
     borrow::Cow,
-    fs,
-    fs::File,
+    fs::{self, File},
     io::{self, BufRead, Write},
+    path::Path,
     thread,
     time::Duration,
 };
 use urlencoding::encode;
 
 fn main() {
-    let files = vec!["conf.json", "ip.txt"];
+    let files = vec!["config.json", "ip.txt"];
     let file = File::open(files[0]).expect("Failed to open file");
     let conf: serde_json::Value = serde_json::from_reader(file).expect("Failed to parse JSON");
     /* 获取json中字段的值 */
-    let v_uuid = conf["userID"].as_str().unwrap_or("").to_string();
-    let v_host = conf["host"].as_str().unwrap_or("").to_string();
-    let v_sni = conf["sni"].as_str().unwrap_or("").to_string();
-    let v_path = if let Some(value) = conf.get("path") {
+    let v_uuid = conf["vless"]["userid"].as_str().unwrap_or("").to_string();
+    let v_host = conf["vless"]["host"].as_str().unwrap_or("").to_string();
+    let v_sni = conf["vless"]["sni"].as_str().unwrap_or("").to_string();
+    let v_path = if let Some(value) = conf["vless"].get("path") {
         if !value.is_null() && !value.as_str().unwrap_or_default().is_empty() {
             value.as_str().unwrap().to_string()
         } else {
@@ -27,6 +27,23 @@ fn main() {
     } else {
         "/?ed=2048".to_string()
     };
+
+    // ip.txt文件自检，文件不存在或为空时退出程序
+    if !is_file_existing_and_non_empty(files[1]) {
+        println!("文件{}不存在或者文件为空！", files[1]);
+        println!("{}", "+".repeat(50));
+        println!("本程序支持的内容格式如下：");
+        println!("192.168.1.1");
+        println!("192.168.1.0/24");
+        println!("192.168.1.1 443");
+        println!("192.168.1.1,443");
+        println!("192.168.1.1,443,字段a,字段b,字段c,...");
+        println!("time.cloudflare.com");
+        println!("ip.sb 2053");
+        println!("{}", "+".repeat(50));
+        wait_for_enter();
+        std::process::exit(1);
+    }
 
     println!(
         "本程序的用途：使用TXT文件中的地址和端口，组成新的VLESS链接，支持批量扩展无数条VLESS链接\n温馨提示：程序执行时，需要额外的依赖文件有：{}",
@@ -43,7 +60,7 @@ fn main() {
         println!("{}", line.trim_start());
     }
     // 用途：这个函数返回的结果，判断是否为TLS模式，选择使用哪个链接生成
-    let tls_state = get_tls_from_host(v_host.clone());
+    let tls_mode = get_tls_from_host(v_host.clone());
     // 选择端口，权限大小：用户输入的端口 > 设置默认端口
     let selected_port = get_default_port_from_host(v_host.clone());
     println!(
@@ -60,7 +77,7 @@ fn main() {
     let result = build_vless_nodes(
         addr_and_port_vec_vec,
         alias_prefix,
-        tls_state,
+        tls_mode,
         v_uuid,
         v_host,
         v_sni,
@@ -78,7 +95,7 @@ fn main() {
 fn build_vless_nodes(
     vec_data: Vec<Vec<String>>,
     alias_prefix: String,
-    tls_state: bool,
+    tls_mode: bool,
     v_uuid: String,
     v_host: String,
     v_sni: String,
@@ -98,14 +115,14 @@ fn build_vless_nodes(
         // url编码节点的名称
         let encoded_alias_name = encode(&alias_name);
         let vless;
-        if !tls_state {
+        if !tls_mode {
             vless = format!(
                 "vless://{}@{}:{}?encryption=none&type=ws&host={}&path={}#{}",
                 v_uuid, address, port, v_host, encoded_v_path, encoded_alias_name
             )
         } else {
             vless = format!(
-                "vless://{}@{}:{}?encryption=none&security=tls&sni={}&fp=randomized&type=ws&host={}&path={}#{}",
+                "vless://{}@{}:{}?encryption=none&security=tls&sni={}&alpn=h3&fp=chrome&type=ws&host={}&path={}#{}",
                 v_uuid, address, port, v_sni, v_host, encoded_v_path, encoded_alias_name
             )
         }
@@ -166,14 +183,6 @@ fn split_line_content(line: String, default: &str) -> Vec<String> {
     }
 }
 
-fn get_tls_from_host(host_domain: String) -> bool {
-    if !host_domain.trim().is_empty() && !host_domain.ends_with("workers.dev") {
-        return true; // 是TLS模式
-    } else {
-        return false; // 不是TLS模式
-    };
-}
-
 fn get_default_port_from_host(host_domain: String) -> u16 {
     // default_port这个变量可以修改，如果用户输入端口，就将这个default_port变量的值修改成用户输入的端口
     let mut default_port: u16 =
@@ -223,4 +232,37 @@ fn get_prefix_from_user_input() -> String {
         .expect("Failed to read line");
 
     input.trim().to_string()
+}
+
+/* ip.txt文件自检（文件是否存在、文件不为空） */
+fn is_file_existing_and_non_empty(file_path: &str) -> bool {
+    let path = Path::new(file_path);
+
+    if path.exists() {
+        if let Ok(metadata) = fs::metadata(path) {
+            if metadata.is_file() {
+                let file_size = metadata.len();
+                return file_size > 0;
+            }
+        }
+    }
+    false
+}
+
+fn get_tls_from_host(host_domain: String) -> bool {
+    if !host_domain.trim().is_empty() && !host_domain.ends_with("workers.dev") {
+        return true; // 是TLS模式
+    } else {
+        return false; // 不是TLS模式
+    };
+}
+
+fn wait_for_enter() {
+    print!("按Enter键退出程序...");
+    io::stdout().flush().expect("Failed to flush stdout");
+
+    let mut input = String::new();
+    io::stdin()
+        .read_line(&mut input)
+        .expect("Failed to read line");
 }
