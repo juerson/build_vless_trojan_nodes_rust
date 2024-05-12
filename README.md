@@ -9,7 +9,7 @@
 ```json
 {
   "vless": {
-    "uuid": "填写自己的uuid",
+    "userid": "填写自己的uuid",
     "host": "你的子域.pages.dev",
     "sni": "你的子域.pages.dev",
     "path": "/?ed=2048"
