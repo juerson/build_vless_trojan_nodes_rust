@@ -1,0 +1,1495 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟
+162.159.193.204,443,true,SJC,North America,San Jose,149 ms
+162.159.195.98,443,true,SJC,North America,San Jose,150 ms
+162.159.195.235,443,true,SJC,North America,San Jose,151 ms
+162.159.193.241,443,true,SJC,North America,San Jose,153 ms
+162.159.192.16,443,true,SJC,North America,San Jose,154 ms
+162.159.195.2,443,true,SJC,North America,San Jose,154 ms
+162.159.193.188,443,true,SJC,North America,San Jose,155 ms
+162.159.195.140,443,true,SJC,North America,San Jose,155 ms
+162.159.193.221,443,true,SJC,North America,San Jose,155 ms
+162.159.193.113,443,true,SJC,North America,San Jose,156 ms
+162.159.193.208,443,true,SJC,North America,San Jose,157 ms
+162.159.193.90,443,true,SJC,North America,San Jose,157 ms
+162.159.195.178,443,true,SJC,North America,San Jose,157 ms
+162.159.195.130,443,true,SJC,North America,San Jose,157 ms
+162.159.195.70,443,true,SJC,North America,San Jose,158 ms
+162.159.193.95,443,true,SJC,North America,San Jose,158 ms
+162.159.195.37,443,true,SJC,North America,San Jose,159 ms
+162.159.192.244,443,true,SJC,North America,San Jose,159 ms
+162.159.193.184,443,true,SJC,North America,San Jose,159 ms
+162.159.195.113,443,true,SJC,North America,San Jose,160 ms
+162.159.193.216,443,true,SJC,North America,San Jose,160 ms
+162.159.193.193,443,true,SJC,North America,San Jose,160 ms
+162.159.193.152,443,true,SJC,North America,San Jose,160 ms
+162.159.195.210,443,true,SJC,North America,San Jose,161 ms
+162.159.192.218,443,true,SJC,North America,San Jose,161 ms
+162.159.193.13,443,true,SJC,North America,San Jose,161 ms
+162.159.193.129,443,true,SJC,North America,San Jose,162 ms
+162.159.193.43,443,true,SJC,North America,San Jose,162 ms
+162.159.195.189,443,true,SJC,North America,San Jose,162 ms
+162.159.193.75,443,true,SJC,North America,San Jose,163 ms
+162.159.195.0,443,true,SJC,North America,San Jose,164 ms
+162.159.195.17,443,true,SJC,North America,San Jose,165 ms
+162.159.195.148,443,true,SJC,North America,San Jose,165 ms
+162.159.195.120,443,true,SJC,North America,San Jose,165 ms
+162.159.193.142,443,true,SJC,North America,San Jose,165 ms
+162.159.192.177,443,true,SJC,North America,San Jose,166 ms
+162.159.195.90,443,true,SJC,North America,San Jose,167 ms
+162.159.195.143,443,true,SJC,North America,San Jose,167 ms
+162.159.192.37,443,true,SJC,North America,San Jose,167 ms
+162.159.192.192,443,true,SJC,North America,San Jose,167 ms
+162.159.192.223,443,true,SJC,North America,San Jose,167 ms
+162.159.195.177,443,true,SJC,North America,San Jose,167 ms
+162.159.192.162,443,true,SJC,North America,San Jose,168 ms
+162.159.195.39,443,true,SJC,North America,San Jose,169 ms
+162.159.195.166,443,true,SJC,North America,San Jose,169 ms
+162.159.193.161,443,true,SJC,North America,San Jose,169 ms
+162.159.195.156,443,true,SJC,North America,San Jose,170 ms
+162.159.192.239,443,true,SJC,North America,San Jose,171 ms
+162.159.195.154,443,true,SJC,North America,San Jose,171 ms
+188.114.96.110,443,true,AMS,Europe,Amsterdam,171 ms
+162.159.195.162,443,true,SJC,North America,San Jose,172 ms
+162.159.195.250,443,true,SJC,North America,San Jose,173 ms
+162.159.192.13,443,true,SJC,North America,San Jose,173 ms
+188.114.98.176,443,true,AMS,Europe,Amsterdam,173 ms
+162.159.193.249,443,true,SJC,North America,San Jose,173 ms
+188.114.98.105,443,true,AMS,Europe,Amsterdam,173 ms
+162.159.195.111,443,true,SJC,North America,San Jose,173 ms
+162.159.195.174,443,true,SJC,North America,San Jose,173 ms
+162.159.192.213,443,true,SJC,North America,San Jose,174 ms
+162.159.195.84,443,true,SJC,North America,San Jose,175 ms
+188.114.99.81,443,true,AMS,Europe,Amsterdam,175 ms
+188.114.96.64,443,true,AMS,Europe,Amsterdam,175 ms
+188.114.98.114,443,true,AMS,Europe,Amsterdam,175 ms
+188.114.96.71,443,true,AMS,Europe,Amsterdam,175 ms
+162.159.192.44,443,true,SJC,North America,San Jose,175 ms
+188.114.96.126,443,true,AMS,Europe,Amsterdam,175 ms
+188.114.98.216,443,true,AMS,Europe,Amsterdam,176 ms
+188.114.96.236,443,true,AMS,Europe,Amsterdam,176 ms
+162.159.195.240,443,true,SJC,North America,San Jose,176 ms
+188.114.96.44,443,true,AMS,Europe,Amsterdam,176 ms
+188.114.98.130,443,true,AMS,Europe,Amsterdam,177 ms
+188.114.98.230,443,true,AMS,Europe,Amsterdam,177 ms
+162.159.192.171,443,true,SJC,North America,San Jose,178 ms
+162.159.192.161,443,true,SJC,North America,San Jose,178 ms
+188.114.97.33,443,true,AMS,Europe,Amsterdam,178 ms
+162.159.192.197,443,true,SJC,North America,San Jose,178 ms
+188.114.97.138,443,true,AMS,Europe,Amsterdam,178 ms
+188.114.96.144,443,true,AMS,Europe,Amsterdam,179 ms
+188.114.96.150,443,true,AMS,Europe,Amsterdam,180 ms
+188.114.96.148,443,true,AMS,Europe,Amsterdam,180 ms
+188.114.99.0,443,true,AMS,Europe,Amsterdam,181 ms
+188.114.99.122,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.99.87,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.99.184,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.98.49,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.98.120,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.99.93,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.96.32,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.98.75,443,true,AMS,Europe,Amsterdam,182 ms
+188.114.96.212,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.114,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.72,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.98.58,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.106,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.245,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.98.180,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.19,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.141,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.49,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.168,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.54,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.234,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.235,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.65,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.143,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.56,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.113,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.98.148,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.101,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.149,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.3,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.212,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.98.133,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.1,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.116,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.4,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.170,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.107,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.98.191,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.96.114,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.112,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.98.167,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.99.145,443,true,AMS,Europe,Amsterdam,183 ms
+188.114.97.39,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.96.185,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.99.104,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.96.173,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.96.200,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.98.116,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.97.240,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.98.97,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.97.171,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.99.55,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.96.255,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.98.124,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.98.19,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.96.111,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.97.161,443,true,AMS,Europe,Amsterdam,184 ms
+188.114.98.101,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.98.112,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.98.156,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.98.18,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.96.192,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.97.150,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.96.115,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.96.203,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.97.248,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.98.89,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.96.118,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.99.166,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.97.18,443,true,AMS,Europe,Amsterdam,185 ms
+188.114.97.127,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.61,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.98.103,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.98.43,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.98.17,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.223,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.99.174,443,true,AMS,Europe,Amsterdam,186 ms
+162.159.192.210,443,true,SJC,North America,San Jose,186 ms
+188.114.96.100,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.99.204,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.225,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.99.79,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.79,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.251,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.97.44,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.163,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.23,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.96.241,443,true,AMS,Europe,Amsterdam,186 ms
+188.114.99.129,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.70,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.97.154,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.119,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.170,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.98.63,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.52,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.99.235,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.230,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.98.233,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.97.204,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.137,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.99.109,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.54,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.97.124,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.231,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.97.158,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.122,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.98.253,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.96.29,443,true,AMS,Europe,Amsterdam,187 ms
+188.114.97.56,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.133,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.97.85,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.152,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.158,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.77,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.109,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.198,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.53,443,true,AMS,Europe,Amsterdam,188 ms
+188.114.96.92,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.99.58,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.96.6,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.99.6,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.99.169,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.99.153,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.99.151,443,true,AMS,Europe,Amsterdam,189 ms
+162.159.192.224,443,true,SJC,North America,San Jose,189 ms
+188.114.97.219,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.97.120,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.99.47,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.97.25,443,true,AMS,Europe,Amsterdam,189 ms
+162.159.195.28,443,true,SJC,North America,San Jose,189 ms
+188.114.96.217,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.96.88,443,true,AMS,Europe,Amsterdam,189 ms
+188.114.96.206,443,true,AMS,Europe,Amsterdam,190 ms
+188.114.97.89,443,true,AMS,Europe,Amsterdam,190 ms
+162.159.193.255,443,true,SJC,North America,San Jose,190 ms
+188.114.97.74,443,true,AMS,Europe,Amsterdam,191 ms
+188.114.96.73,443,true,AMS,Europe,Amsterdam,191 ms
+188.114.97.117,443,true,AMS,Europe,Amsterdam,191 ms
+188.114.97.71,443,true,AMS,Europe,Amsterdam,192 ms
+188.114.97.72,443,true,AMS,Europe,Amsterdam,192 ms
+188.114.97.4,443,true,AMS,Europe,Amsterdam,192 ms
+162.159.195.8,443,true,SJC,North America,San Jose,193 ms
+188.114.98.207,443,true,AMS,Europe,Amsterdam,193 ms
+188.114.99.53,443,true,AMS,Europe,Amsterdam,193 ms
+188.114.96.120,443,true,AMS,Europe,Amsterdam,193 ms
+188.114.97.130,443,true,AMS,Europe,Amsterdam,193 ms
+188.114.99.80,443,true,AMS,Europe,Amsterdam,193 ms
+188.114.98.12,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.199,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.197,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.19,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.42,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.59,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.45,443,true,AMS,Europe,Amsterdam,194 ms
+162.159.195.80,443,true,SJC,North America,San Jose,194 ms
+188.114.99.243,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.169,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.252,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.2,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.41,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.86,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.253,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.64,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.187,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.73,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.136,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.14,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.96,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.186,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.11,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.123,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.118,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.182,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.180,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.160,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.66,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.242,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.95,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.135,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.131,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.96,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.27,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.116,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.137,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.10,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.106,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.124,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.217,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.172,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.121,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.52,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.146,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.3,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.220,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.196,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.251,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.135,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.134,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.9,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.96.5,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.98.61,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.97.215,443,true,AMS,Europe,Amsterdam,194 ms
+188.114.99.29,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.162,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.132,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.189,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.164,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.160,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.2,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.66,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.141,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.90,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.119,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.178,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.94,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.50,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.227,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.134,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.207,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.158,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.76,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.109,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.81,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.18,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.157,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.144,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.161,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.90,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.48,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.240,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.94,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.100,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.99,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.52,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.203,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.214,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.181,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.168,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.147,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.202,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.243,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.20,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.17,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.46,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.84,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.91,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.77,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.79,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.164,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.237,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.81,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.182,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.106,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.221,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.85,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.228,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.93,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.98,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.142,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.49,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.75,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.250,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.89,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.186,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.63,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.202,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.173,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.165,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.191,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.251,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.89,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.5,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.179,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.152,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.150,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.137,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.99.154,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.67,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.213,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.8,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.96.191,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.98.255,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.43,443,true,AMS,Europe,Amsterdam,195 ms
+188.114.97.62,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.236,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.35,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.26,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.163,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.159,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.220,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.108,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.58,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.159,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.41,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.188,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.24,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.240,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.173,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.28,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.47,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.88,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.56,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.139,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.7,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.69,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.139,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.23,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.104,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.104,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.185,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.10,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.133,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.48,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.68,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.167,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.23,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.141,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.128,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.125,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.228,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.254,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.38,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.68,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.64,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.98.13,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.168,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.97.123,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.99.45,443,true,AMS,Europe,Amsterdam,196 ms
+188.114.96.83,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.134,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.184,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.198,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.99.102,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.99.15,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.60,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.91,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.236,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.127,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.248,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.186,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.189,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.188,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.70,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.154,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.87,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.194,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.243,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.242,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.247,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.85,443,true,AMS,Europe,Amsterdam,197 ms
+162.159.195.83,443,true,SJC,North America,San Jose,197 ms
+188.114.99.237,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.122,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.246,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.99.110,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.0,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.36,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.127,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.126,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.125,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.1,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.177,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.204,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.206,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.168,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.3,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.70,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.16,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.17,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.129,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.99.140,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.97,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.78,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.99.116,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.99.142,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.195,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.194,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.97.48,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.102,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.241,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.33,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.174,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.98.87,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.28,443,true,AMS,Europe,Amsterdam,197 ms
+188.114.96.78,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.226,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.8,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.155,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.21,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.60,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.37,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.2,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.98.209,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.245,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.212,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.249,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.210,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.27,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.98.29,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.129,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.101,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.248,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.103,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.126,443,true,AMS,Europe,Amsterdam,198 ms
+162.159.192.145,443,true,SJC,North America,San Jose,198 ms
+188.114.98.249,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.99.156,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.98.118,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.221,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.209,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.98.57,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.97.174,443,true,AMS,Europe,Amsterdam,198 ms
+188.114.96.166,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.99.127,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.208,443,true,AMS,Europe,Amsterdam,199 ms
+162.159.192.53,443,true,SJC,North America,San Jose,199 ms
+162.159.192.106,443,true,SJC,North America,San Jose,199 ms
+188.114.99.224,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.99.190,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.98.21,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.99.176,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.99.41,443,true,AMS,Europe,Amsterdam,199 ms
+162.159.195.42,443,true,SJC,North America,San Jose,199 ms
+188.114.99.196,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.97.162,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.99.144,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.97.190,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.204,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.81,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.207,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.97.41,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.50,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.183,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.97.47,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.99.245,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.97.28,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.97.102,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.96.112,443,true,AMS,Europe,Amsterdam,199 ms
+188.114.98.95,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.159,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.179,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.210,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.88,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.21,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.224,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.99,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.98,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.215,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.54,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.113,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.146,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.11,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.192,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.98.109,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.118,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.97.253,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.96.219,443,true,AMS,Europe,Amsterdam,200 ms
+188.114.98.254,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.75,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.152,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.232,443,true,AMS,Europe,Amsterdam,201 ms
+162.159.193.236,443,true,SJC,North America,San Jose,201 ms
+188.114.96.181,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.32,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.34,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.27,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.96.205,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.96.214,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.96.227,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.96.75,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.105,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.96.141,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.98.247,443,true,AMS,Europe,Amsterdam,201 ms
+188.114.97.15,443,true,AMS,Europe,Amsterdam,202 ms
+188.114.97.6,443,true,AMS,Europe,Amsterdam,202 ms
+188.114.99.22,443,true,AMS,Europe,Amsterdam,202 ms
+188.114.96.27,443,true,AMS,Europe,Amsterdam,202 ms
+188.114.96.76,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.97.97,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.96.138,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.97.84,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.97.83,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.98.40,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.97.73,443,true,AMS,Europe,Amsterdam,203 ms
+188.114.96.24,443,true,AMS,Europe,Amsterdam,204 ms
+188.114.97.93,443,true,AMS,Europe,Amsterdam,204 ms
+188.114.97.92,443,true,AMS,Europe,Amsterdam,204 ms
+188.114.97.30,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.97.29,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.96.143,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.98.145,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.96.3,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.96.59,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.97.86,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.97.202,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.97.128,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.99.175,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.99.131,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.96.239,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.96.182,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.98.117,443,true,AMS,Europe,Amsterdam,205 ms
+188.114.99.138,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.114,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.105,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.33,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.51,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.214,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.246,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.245,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.65,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.94,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.229,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.62,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.96,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.213,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.185,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.13,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.31,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.132,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.199,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.34,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.244,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.71,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.97.255,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.197,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.49,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.178,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.176,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.79,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.98.151,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.96.9,443,true,AMS,Europe,Amsterdam,206 ms
+188.114.99.209,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.177,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.179,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.84,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.163,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.148,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.47,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.96,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.19,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.130,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.71,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.70,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.39,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.143,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.241,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.39,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.147,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.20,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.59,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.31,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.9,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.175,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.76,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.167,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.161,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.64,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.30,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.7,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.215,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.60,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.121,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.247,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.101,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.13,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.83,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.123,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.53,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.164,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.136,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.178,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.139,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.108,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.158,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.217,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.108,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.22,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.244,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.224,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.30,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.25,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.24,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.92,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.97.251,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.218,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.99.111,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.128,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.200,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.98.201,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.216,443,true,AMS,Europe,Amsterdam,207 ms
+188.114.96.95,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.187,443,true,AMS,Europe,Amsterdam,208 ms
+162.159.192.241,443,true,SJC,North America,San Jose,208 ms
+188.114.97.0,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.233,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.98.98,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.243,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.200,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.136,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.4,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.232,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.67,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.115,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.98.153,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.241,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.25,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.58,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.98.248,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.235,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.42,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.98.8,443,true,AMS,Europe,Amsterdam,208 ms
+162.159.193.243,443,true,SJC,North America,San Jose,208 ms
+188.114.97.63,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.134,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.98.7,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.57,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.190,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.124,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.179,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.113,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.105,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.45,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.78,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.36,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.110,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.97.111,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.34,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.160,443,true,AMS,Europe,Amsterdam,208 ms
+162.159.195.25,443,true,SJC,North America,San Jose,208 ms
+188.114.98.90,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.7,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.98.195,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.99.103,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.187,443,true,AMS,Europe,Amsterdam,208 ms
+188.114.96.46,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.254,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.72,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.57,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.50,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.98.212,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.125,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.211,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.155,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.98.183,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.152,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.38,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.103,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.21,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.62,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.98.110,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.20,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.50,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.225,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.136,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.107,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.250,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.121,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.151,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.207,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.135,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.68,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.16,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.121,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.98.102,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.203,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.125,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.159,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.55,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.98.166,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.99.11,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.184,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.97.196,443,true,AMS,Europe,Amsterdam,209 ms
+188.114.96.86,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.99.51,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.231,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.98.205,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.98.129,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.214,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.237,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.99,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.99.100,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.170,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.166,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.99.157,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.149,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.98.244,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.98.80,443,true,AMS,Europe,Amsterdam,210 ms
+162.159.195.207,443,true,SJC,North America,San Jose,210 ms
+188.114.98.140,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.185,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.98.11,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.97.149,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.37,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.238,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.18,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.233,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.98.223,443,true,AMS,Europe,Amsterdam,210 ms
+188.114.96.196,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.97.61,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.98.25,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.211,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.154,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.22,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.40,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.97.131,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.186,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.98.92,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.51,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.97.143,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.97.229,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.96.169,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.97.46,443,true,AMS,Europe,Amsterdam,211 ms
+188.114.97.55,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.97.140,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.97.10,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.98.174,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.98.14,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.96.108,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.96.228,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.96.197,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.97.176,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.96.35,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.98.54,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.97.26,443,true,AMS,Europe,Amsterdam,212 ms
+188.114.97.145,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.97.51,443,true,AMS,Europe,Amsterdam,213 ms
+162.159.192.245,443,true,SJC,North America,San Jose,213 ms
+188.114.97.5,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.96.147,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.97.87,443,true,AMS,Europe,Amsterdam,213 ms
+162.159.195.23,443,true,SJC,North America,San Jose,213 ms
+188.114.97.193,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.97.91,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.96.131,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.96.201,443,true,AMS,Europe,Amsterdam,213 ms
+188.114.96.232,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.97.119,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.153,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.45,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.218,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.98.1,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.80,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.97.95,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.74,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.97.24,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.99.165,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.8,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.97.42,443,true,AMS,Europe,Amsterdam,214 ms
+162.159.192.11,443,true,SJC,North America,San Jose,214 ms
+188.114.96.142,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.99.188,443,true,AMS,Europe,Amsterdam,214 ms
+188.114.96.140,443,true,AMS,Europe,Amsterdam,215 ms
+188.114.96.229,443,true,AMS,Europe,Amsterdam,215 ms
+188.114.97.148,443,true,AMS,Europe,Amsterdam,215 ms
+188.114.96.139,443,true,AMS,Europe,Amsterdam,215 ms
+188.114.97.156,443,true,AMS,Europe,Amsterdam,215 ms
+188.114.96.145,443,true,AMS,Europe,Amsterdam,215 ms
+188.114.97.98,443,true,AMS,Europe,Amsterdam,216 ms
+188.114.97.249,443,true,AMS,Europe,Amsterdam,216 ms
+188.114.97.239,443,true,AMS,Europe,Amsterdam,216 ms
+188.114.97.77,443,true,AMS,Europe,Amsterdam,216 ms
+188.114.97.94,443,true,AMS,Europe,Amsterdam,217 ms
+188.114.97.82,443,true,AMS,Europe,Amsterdam,218 ms
+188.114.97.100,443,true,AMS,Europe,Amsterdam,218 ms
+162.159.194.11,443,true,SJC,North America,San Jose,219 ms
+162.159.192.91,443,true,SJC,North America,San Jose,220 ms
+162.159.194.9,443,true,SJC,North America,San Jose,220 ms
+162.159.192.54,443,true,SJC,North America,San Jose,221 ms
+188.114.97.80,443,true,AMS,Europe,Amsterdam,221 ms
+162.159.192.128,443,true,SJC,North America,San Jose,222 ms
+162.159.193.220,443,true,SJC,North America,San Jose,222 ms
+162.159.192.19,443,true,SJC,North America,San Jose,222 ms
+162.159.192.103,443,true,SJC,North America,San Jose,225 ms
+162.159.192.134,443,true,SJC,North America,San Jose,225 ms
+162.159.192.233,443,true,SJC,North America,San Jose,229 ms
+162.159.192.55,443,true,SJC,North America,San Jose,229 ms
+162.159.192.56,443,true,SJC,North America,San Jose,229 ms
+162.159.194.17,443,true,SJC,North America,San Jose,231 ms
+162.159.192.1,443,true,SJC,North America,San Jose,233 ms
+162.159.192.65,443,true,SJC,North America,San Jose,234 ms
+162.159.194.126,443,true,SJC,North America,San Jose,235 ms
+162.159.192.17,443,true,SJC,North America,San Jose,236 ms
+162.159.195.222,443,true,SJC,North America,San Jose,236 ms
+162.159.195.34,443,true,SJC,North America,San Jose,237 ms
+162.159.192.250,443,true,SJC,North America,San Jose,238 ms
+162.159.192.58,443,true,SJC,North America,San Jose,238 ms
+162.159.194.254,443,true,SJC,North America,San Jose,239 ms
+162.159.192.231,443,true,SJC,North America,San Jose,240 ms
+162.159.192.178,443,true,SJC,North America,San Jose,241 ms
+162.159.192.46,443,true,SJC,North America,San Jose,241 ms
+162.159.192.141,443,true,SJC,North America,San Jose,244 ms
+162.159.193.229,443,true,SJC,North America,San Jose,245 ms
+162.159.193.230,443,true,SJC,North America,San Jose,245 ms
+162.159.194.104,443,true,SJC,North America,San Jose,246 ms
+162.159.192.125,443,true,SJC,North America,San Jose,251 ms
+162.159.195.203,443,true,SJC,North America,San Jose,252 ms
+162.159.192.10,443,true,SJC,North America,San Jose,255 ms
+162.159.192.5,443,true,SJC,North America,San Jose,256 ms
+162.159.195.226,443,true,SJC,North America,San Jose,256 ms
+162.159.192.123,443,true,SJC,North America,San Jose,257 ms
+162.159.192.8,443,true,SJC,North America,San Jose,257 ms
+162.159.192.31,443,true,SJC,North America,San Jose,263 ms
+162.159.194.98,443,true,SJC,North America,San Jose,264 ms
+162.159.192.252,443,true,SJC,North America,San Jose,264 ms
+162.159.192.2,443,true,SJC,North America,San Jose,264 ms
+162.159.195.108,443,true,SJC,North America,San Jose,265 ms
+162.159.194.16,443,true,SJC,North America,San Jose,266 ms
+162.159.195.255,443,true,SJC,North America,San Jose,267 ms
+162.159.195.99,443,true,SJC,North America,San Jose,267 ms
+162.159.194.34,443,true,SJC,North America,San Jose,269 ms
+162.159.194.227,443,true,SJC,North America,San Jose,270 ms
+162.159.194.108,443,true,SJC,North America,San Jose,271 ms
+162.159.193.217,443,true,SJC,North America,San Jose,271 ms
+162.159.195.227,443,true,SJC,North America,San Jose,272 ms
+162.159.194.235,443,true,SJC,North America,San Jose,273 ms
+162.159.192.166,443,true,SJC,North America,San Jose,273 ms
+162.159.192.22,443,true,SJC,North America,San Jose,273 ms
+162.159.192.163,443,true,SJC,North America,San Jose,273 ms
+162.159.192.39,443,true,SJC,North America,San Jose,274 ms
+162.159.193.110,443,true,SJC,North America,San Jose,274 ms
+162.159.194.64,443,true,SJC,North America,San Jose,275 ms
+162.159.195.77,443,true,SJC,North America,San Jose,277 ms
+162.159.193.119,443,true,SJC,North America,San Jose,278 ms
+162.159.192.122,443,true,SJC,North America,San Jose,280 ms
+162.159.194.233,443,true,SJC,North America,San Jose,280 ms
+162.159.193.37,443,true,SJC,North America,San Jose,280 ms
+162.159.192.49,443,true,SJC,North America,San Jose,280 ms
+162.159.195.61,443,true,SJC,North America,San Jose,281 ms
+162.159.193.105,443,true,SJC,North America,San Jose,281 ms
+162.159.192.98,443,true,SJC,North America,San Jose,281 ms
+162.159.195.219,443,true,SJC,North America,San Jose,281 ms
+162.159.195.128,443,true,SJC,North America,San Jose,281 ms
+162.159.192.170,443,true,SJC,North America,San Jose,281 ms
+162.159.195.115,443,true,SJC,North America,San Jose,281 ms
+162.159.193.48,443,true,SJC,North America,San Jose,282 ms
+162.159.192.35,443,true,SJC,North America,San Jose,283 ms
+162.159.193.111,443,true,SJC,North America,San Jose,283 ms
+162.159.192.229,443,true,SJC,North America,San Jose,283 ms
+162.159.193.19,443,true,SJC,North America,San Jose,284 ms
+162.159.193.131,443,true,SJC,North America,San Jose,286 ms
+162.159.194.239,443,true,SJC,North America,San Jose,286 ms
+162.159.193.103,443,true,SJC,North America,San Jose,287 ms
+162.159.195.214,443,true,SJC,North America,San Jose,287 ms
+162.159.193.162,443,true,SJC,North America,San Jose,289 ms
+162.159.193.149,443,true,SJC,North America,San Jose,290 ms
+162.159.195.168,443,true,SJC,North America,San Jose,290 ms
+162.159.195.237,443,true,SJC,North America,San Jose,290 ms
+162.159.192.21,443,true,SJC,North America,San Jose,291 ms
+162.159.192.131,443,true,SJC,North America,San Jose,291 ms
+162.159.193.168,443,true,SJC,North America,San Jose,292 ms
+162.159.192.4,443,true,SJC,North America,San Jose,292 ms
+162.159.192.76,443,true,SJC,North America,San Jose,292 ms
+162.159.195.173,443,true,SJC,North America,San Jose,292 ms
+162.159.194.209,443,true,SJC,North America,San Jose,293 ms
+162.159.192.90,443,true,SJC,North America,San Jose,294 ms
+162.159.192.7,443,true,SJC,North America,San Jose,294 ms
+162.159.194.206,443,true,SJC,North America,San Jose,295 ms
+162.159.195.131,443,true,SJC,North America,San Jose,295 ms
+162.159.193.0,443,true,SJC,North America,San Jose,295 ms
+162.159.195.71,443,true,SJC,North America,San Jose,296 ms
+162.159.195.106,443,true,SJC,North America,San Jose,297 ms
+162.159.192.206,443,true,SJC,North America,San Jose,298 ms
+162.159.194.223,443,true,SJC,North America,San Jose,298 ms
+162.159.192.136,443,true,SJC,North America,San Jose,298 ms
+162.159.195.93,443,true,SJC,North America,San Jose,299 ms
+162.159.194.252,443,true,SJC,North America,San Jose,301 ms
+162.159.194.18,443,true,SJC,North America,San Jose,302 ms
+162.159.194.193,443,true,SJC,North America,San Jose,302 ms
+162.159.195.201,443,true,SJC,North America,San Jose,302 ms
+162.159.195.163,443,true,SJC,North America,San Jose,302 ms
+162.159.194.216,443,true,SJC,North America,San Jose,303 ms
+162.159.194.72,443,true,SJC,North America,San Jose,303 ms
+162.159.194.245,443,true,SJC,North America,San Jose,304 ms
+162.159.194.12,443,true,SJC,North America,San Jose,304 ms
+162.159.193.27,443,true,SJC,North America,San Jose,304 ms
+162.159.194.231,443,true,SJC,North America,San Jose,304 ms
+162.159.195.104,443,true,SJC,North America,San Jose,305 ms
+162.159.192.48,443,true,SJC,North America,San Jose,306 ms
+162.159.192.85,443,true,SJC,North America,San Jose,307 ms
+162.159.195.95,443,true,SJC,North America,San Jose,307 ms
+162.159.195.43,443,true,SJC,North America,San Jose,307 ms
+162.159.195.234,443,true,SJC,North America,San Jose,308 ms
+162.159.194.49,443,true,SJC,North America,San Jose,308 ms
+162.159.195.205,443,true,SJC,North America,San Jose,310 ms
+162.159.192.242,443,true,SJC,North America,San Jose,310 ms
+162.159.193.147,443,true,SJC,North America,San Jose,310 ms
+162.159.195.152,443,true,SJC,North America,San Jose,310 ms
+162.159.195.231,443,true,SJC,North America,San Jose,312 ms
+162.159.194.179,443,true,SJC,North America,San Jose,312 ms
+162.159.194.30,443,true,SJC,North America,San Jose,312 ms
+162.159.193.31,443,true,SJC,North America,San Jose,314 ms
+162.159.194.36,443,true,SJC,North America,San Jose,315 ms
+162.159.192.138,443,true,SJC,North America,San Jose,316 ms
+162.159.192.226,443,true,SJC,North America,San Jose,316 ms
+162.159.194.189,443,true,SJC,North America,San Jose,316 ms
+162.159.192.99,443,true,SJC,North America,San Jose,316 ms
+162.159.192.222,443,true,SJC,North America,San Jose,317 ms
+162.159.192.181,443,true,SJC,North America,San Jose,317 ms
+162.159.193.141,443,true,SJC,North America,San Jose,318 ms
+162.159.194.58,443,true,SJC,North America,San Jose,319 ms
+162.159.193.136,443,true,SJC,North America,San Jose,319 ms
+162.159.193.88,443,true,SJC,North America,San Jose,319 ms
+162.159.194.79,443,true,SJC,North America,San Jose,319 ms
+162.159.194.44,443,true,SJC,North America,San Jose,321 ms
+162.159.195.56,443,true,SJC,North America,San Jose,322 ms
+162.159.193.253,443,true,SJC,North America,San Jose,322 ms
+162.159.195.254,443,true,SJC,North America,San Jose,323 ms
+162.159.192.230,443,true,SJC,North America,San Jose,323 ms
+162.159.192.225,443,true,SJC,North America,San Jose,323 ms
+162.159.195.60,443,true,SJC,North America,San Jose,324 ms
+162.159.195.100,443,true,SJC,North America,San Jose,324 ms
+162.159.194.137,443,true,SJC,North America,San Jose,324 ms
+162.159.194.101,443,true,SJC,North America,San Jose,325 ms
+162.159.193.54,443,true,SJC,North America,San Jose,325 ms
+162.159.194.38,443,true,SJC,North America,San Jose,325 ms
+162.159.194.60,443,true,SJC,North America,San Jose,327 ms
+162.159.193.114,443,true,SJC,North America,San Jose,327 ms
+162.159.194.33,443,true,SJC,North America,San Jose,328 ms
+162.159.194.198,443,true,SJC,North America,San Jose,329 ms
+162.159.194.117,443,true,SJC,North America,San Jose,329 ms
+162.159.193.198,443,true,SJC,North America,San Jose,329 ms
+162.159.193.92,443,true,SJC,North America,San Jose,330 ms
+162.159.195.134,443,true,SJC,North America,San Jose,332 ms
+162.159.194.22,443,true,SJC,North America,San Jose,332 ms
+162.159.194.25,443,true,SJC,North America,San Jose,333 ms
+162.159.194.113,443,true,SJC,North America,San Jose,333 ms
+162.159.192.83,443,true,SJC,North America,San Jose,333 ms
+162.159.195.107,443,true,SJC,North America,San Jose,335 ms
+162.159.193.77,443,true,SJC,North America,San Jose,335 ms
+162.159.194.128,443,true,SJC,North America,San Jose,335 ms
+162.159.194.43,443,true,SJC,North America,San Jose,336 ms
+162.159.194.164,443,true,SJC,North America,San Jose,336 ms
+162.159.194.125,443,true,SJC,North America,San Jose,337 ms
+162.159.194.212,443,true,SJC,North America,San Jose,338 ms
+162.159.193.91,443,true,SJC,North America,San Jose,338 ms
+162.159.193.189,443,true,SJC,North America,San Jose,338 ms
+162.159.193.185,443,true,SJC,North America,San Jose,338 ms
+162.159.194.187,443,true,SJC,North America,San Jose,339 ms
+162.159.192.187,443,true,SJC,North America,San Jose,339 ms
+162.159.194.244,443,true,SJC,North America,San Jose,339 ms
+162.159.194.240,443,true,SJC,North America,San Jose,339 ms
+162.159.195.5,443,true,SJC,North America,San Jose,340 ms
+162.159.192.121,443,true,SJC,North America,San Jose,340 ms
+162.159.193.42,443,true,SJC,North America,San Jose,340 ms
+162.159.193.41,443,true,SJC,North America,San Jose,340 ms
+162.159.195.4,443,true,SJC,North America,San Jose,340 ms
+162.159.195.41,443,true,SJC,North America,San Jose,340 ms
+162.159.194.226,443,true,SJC,North America,San Jose,341 ms
+162.159.193.89,443,true,SJC,North America,San Jose,341 ms
+162.159.192.101,443,true,SJC,North America,San Jose,341 ms
+162.159.193.72,443,true,SJC,North America,San Jose,341 ms
+162.159.194.102,443,true,SJC,North America,San Jose,343 ms
+162.159.195.20,443,true,SJC,North America,San Jose,343 ms
+162.159.193.34,443,true,SJC,North America,San Jose,344 ms
+162.159.194.71,443,true,SJC,North America,San Jose,344 ms
+162.159.194.73,443,true,SJC,North America,San Jose,344 ms
+162.159.193.74,443,true,SJC,North America,San Jose,344 ms
+162.159.195.72,443,true,SJC,North America,San Jose,345 ms
+162.159.194.182,443,true,SJC,North America,San Jose,345 ms
+162.159.193.171,443,true,SJC,North America,San Jose,346 ms
+162.159.194.13,443,true,SJC,North America,San Jose,346 ms
+162.159.194.218,443,true,SJC,North America,San Jose,346 ms
+162.159.194.195,443,true,SJC,North America,San Jose,347 ms
+162.159.193.213,443,true,SJC,North America,San Jose,347 ms
+162.159.193.179,443,true,SJC,North America,San Jose,348 ms
+162.159.193.121,443,true,SJC,North America,San Jose,348 ms
+162.159.194.248,443,true,SJC,North America,San Jose,349 ms
+162.159.195.224,443,true,SJC,North America,San Jose,349 ms
+162.159.193.177,443,true,SJC,North America,San Jose,349 ms
+162.159.194.183,443,true,SJC,North America,San Jose,349 ms
+162.159.193.51,443,true,SJC,North America,San Jose,351 ms
+162.159.194.181,443,true,SJC,North America,San Jose,351 ms
+162.159.192.114,443,true,SJC,North America,San Jose,351 ms
+162.159.194.222,443,true,SJC,North America,San Jose,352 ms
+162.159.194.54,443,true,SJC,North America,San Jose,352 ms
+162.159.193.165,443,true,SJC,North America,San Jose,353 ms
+162.159.193.98,443,true,SJC,North America,San Jose,353 ms
+162.159.194.4,443,true,SJC,North America,San Jose,353 ms
+162.159.193.107,443,true,SJC,North America,San Jose,353 ms
+162.159.193.196,443,true,SJC,North America,San Jose,354 ms
+162.159.194.153,443,true,SJC,North America,San Jose,354 ms
+162.159.193.138,443,true,SJC,North America,San Jose,355 ms
+162.159.193.212,443,true,SJC,North America,San Jose,356 ms
+162.159.193.190,443,true,SJC,North America,San Jose,356 ms
+162.159.193.187,443,true,SJC,North America,San Jose,357 ms
+162.159.193.25,443,true,SJC,North America,San Jose,357 ms
+162.159.193.65,443,true,SJC,North America,San Jose,357 ms
+162.159.194.166,443,true,SJC,North America,San Jose,357 ms
+162.159.193.252,443,true,SJC,North America,San Jose,358 ms
+162.159.194.200,443,true,SJC,North America,San Jose,358 ms
+162.159.194.29,443,true,SJC,North America,San Jose,358 ms
+162.159.194.199,443,true,SJC,North America,San Jose,359 ms
+162.159.192.51,443,true,SJC,North America,San Jose,359 ms
+162.159.194.177,443,true,SJC,North America,San Jose,359 ms
+162.159.194.211,443,true,SJC,North America,San Jose,360 ms
+162.159.193.20,443,true,SJC,North America,San Jose,360 ms
+162.159.194.19,443,true,SJC,North America,San Jose,360 ms
+162.159.194.243,443,true,SJC,North America,San Jose,360 ms
+162.159.193.160,443,true,SJC,North America,San Jose,361 ms
+162.159.194.162,443,true,SJC,North America,San Jose,361 ms
+162.159.193.247,443,true,SJC,North America,San Jose,361 ms
+162.159.194.112,443,true,SJC,North America,San Jose,361 ms
+162.159.194.213,443,true,SJC,North America,San Jose,361 ms
+162.159.194.136,443,true,SJC,North America,San Jose,362 ms
+162.159.194.45,443,true,SJC,North America,San Jose,362 ms
+162.159.193.4,443,true,SJC,North America,San Jose,362 ms
+162.159.193.3,443,true,SJC,North America,San Jose,363 ms
+162.159.194.149,443,true,SJC,North America,San Jose,364 ms
+162.159.193.175,443,true,SJC,North America,San Jose,365 ms
+162.159.193.153,443,true,SJC,North America,San Jose,365 ms
+162.159.193.49,443,true,SJC,North America,San Jose,365 ms
+162.159.194.132,443,true,SJC,North America,San Jose,365 ms
+162.159.194.175,443,true,SJC,North America,San Jose,365 ms
+162.159.193.192,443,true,SJC,North America,San Jose,366 ms
+162.159.194.176,443,true,SJC,North America,San Jose,366 ms
+162.159.194.141,443,true,SJC,North America,San Jose,366 ms
+162.159.193.199,443,true,SJC,North America,San Jose,366 ms
+162.159.194.220,443,true,SJC,North America,San Jose,367 ms
+162.159.193.178,443,true,SJC,North America,San Jose,367 ms
+162.159.194.214,443,true,SJC,North America,San Jose,367 ms
+162.159.193.244,443,true,SJC,North America,San Jose,367 ms
+162.159.193.52,443,true,SJC,North America,San Jose,367 ms
+162.159.194.144,443,true,SJC,North America,San Jose,367 ms
+162.159.193.209,443,true,SJC,North America,San Jose,368 ms
+162.159.193.238,443,true,SJC,North America,San Jose,368 ms
+162.159.193.201,443,true,SJC,North America,San Jose,368 ms
+162.159.193.148,443,true,SJC,North America,San Jose,368 ms
+162.159.194.145,443,true,SJC,North America,San Jose,368 ms
+162.159.194.197,443,true,SJC,North America,San Jose,368 ms
+162.159.194.201,443,true,SJC,North America,San Jose,368 ms
+162.159.195.145,443,true,SJC,North America,San Jose,369 ms
+162.159.193.128,443,true,SJC,North America,San Jose,369 ms
+162.159.193.63,443,true,SJC,North America,San Jose,369 ms
+162.159.193.67,443,true,SJC,North America,San Jose,369 ms
+162.159.193.172,443,true,SJC,North America,San Jose,369 ms
+162.159.194.219,443,true,SJC,North America,San Jose,369 ms
+162.159.193.87,443,true,SJC,North America,San Jose,370 ms
+162.159.193.154,443,true,SJC,North America,San Jose,370 ms
+162.159.193.137,443,true,SJC,North America,San Jose,370 ms
+162.159.193.250,443,true,SJC,North America,San Jose,370 ms
+162.159.193.186,443,true,SJC,North America,San Jose,370 ms
+162.159.194.148,443,true,SJC,North America,San Jose,371 ms
+162.159.193.159,443,true,SJC,North America,San Jose,371 ms
+162.159.193.93,443,true,SJC,North America,San Jose,371 ms
+162.159.193.164,443,true,SJC,North America,San Jose,371 ms
+162.159.193.240,443,true,SJC,North America,San Jose,371 ms
+162.159.193.173,443,true,SJC,North America,San Jose,371 ms
+162.159.193.180,443,true,SJC,North America,San Jose,371 ms
+162.159.193.205,443,true,SJC,North America,San Jose,371 ms
+162.159.193.30,443,true,SJC,North America,San Jose,372 ms
+162.159.193.1,443,true,SJC,North America,San Jose,372 ms
+162.159.193.10,443,true,SJC,North America,San Jose,372 ms
+162.159.193.144,443,true,SJC,North America,San Jose,372 ms
+162.159.193.40,443,true,SJC,North America,San Jose,372 ms
+162.159.193.181,443,true,SJC,North America,San Jose,372 ms
+162.159.194.150,443,true,SJC,North America,San Jose,372 ms
+162.159.193.33,443,true,SJC,North America,San Jose,372 ms
+162.159.194.28,443,true,SJC,North America,San Jose,372 ms
+162.159.193.145,443,true,SJC,North America,San Jose,372 ms
+162.159.193.15,443,true,SJC,North America,San Jose,373 ms
+162.159.194.140,443,true,SJC,North America,San Jose,373 ms
+162.159.193.163,443,true,SJC,North America,San Jose,373 ms
+162.159.193.12,443,true,SJC,North America,San Jose,373 ms
+162.159.193.57,443,true,SJC,North America,San Jose,373 ms
+162.159.192.52,443,true,SJC,North America,San Jose,373 ms
+162.159.194.225,443,true,SJC,North America,San Jose,374 ms
+162.159.193.122,443,true,SJC,North America,San Jose,374 ms
+162.159.195.132,443,true,SJC,North America,San Jose,374 ms
+162.159.194.196,443,true,SJC,North America,San Jose,374 ms
+162.159.194.27,443,true,SJC,North America,San Jose,374 ms
+162.159.194.237,443,true,SJC,North America,San Jose,374 ms
+162.159.193.130,443,true,SJC,North America,San Jose,374 ms
+162.159.193.167,443,true,SJC,North America,San Jose,374 ms
+162.159.193.16,443,true,SJC,North America,San Jose,374 ms
+162.159.194.119,443,true,SJC,North America,San Jose,374 ms
+162.159.193.210,443,true,SJC,North America,San Jose,375 ms
+162.159.194.251,443,true,SJC,North America,San Jose,375 ms
+162.159.193.156,443,true,SJC,North America,San Jose,375 ms
+162.159.194.115,443,true,SJC,North America,San Jose,375 ms
+162.159.193.112,443,true,SJC,North America,San Jose,375 ms
+162.159.193.132,443,true,SJC,North America,San Jose,375 ms
+162.159.194.26,443,true,SJC,North America,San Jose,375 ms
+162.159.194.109,443,true,SJC,North America,San Jose,376 ms
+162.159.193.191,443,true,SJC,North America,San Jose,376 ms
+162.159.193.206,443,true,SJC,North America,San Jose,376 ms
+162.159.193.58,443,true,SJC,North America,San Jose,376 ms
+162.159.193.80,443,true,SJC,North America,San Jose,376 ms
+162.159.193.53,443,true,SJC,North America,San Jose,377 ms
+162.159.194.40,443,true,SJC,North America,San Jose,377 ms
+162.159.194.246,443,true,SJC,North America,San Jose,377 ms
+162.159.194.207,443,true,SJC,North America,San Jose,377 ms
+162.159.194.160,443,true,SJC,North America,San Jose,377 ms
+162.159.192.186,443,true,SJC,North America,San Jose,377 ms
+162.159.194.10,443,true,SJC,North America,San Jose,378 ms
+162.159.194.230,443,true,SJC,North America,San Jose,378 ms
+162.159.193.109,443,true,SJC,North America,San Jose,378 ms
+162.159.193.174,443,true,SJC,North America,San Jose,378 ms
+162.159.193.248,443,true,SJC,North America,San Jose,378 ms
+162.159.195.161,443,true,SJC,North America,San Jose,378 ms
+162.159.193.126,443,true,SJC,North America,San Jose,378 ms
+162.159.194.229,443,true,SJC,North America,San Jose,378 ms
+162.159.194.105,443,true,SJC,North America,San Jose,378 ms
+162.159.194.21,443,true,SJC,North America,San Jose,378 ms
+162.159.194.178,443,true,SJC,North America,San Jose,379 ms
+162.159.193.8,443,true,SJC,North America,San Jose,379 ms
+162.159.193.22,443,true,SJC,North America,San Jose,379 ms
+162.159.195.52,443,true,SJC,North America,San Jose,379 ms
+162.159.193.143,443,true,SJC,North America,San Jose,379 ms
+162.159.193.133,443,true,SJC,North America,San Jose,379 ms
+162.159.194.147,443,true,SJC,North America,San Jose,379 ms
+162.159.195.164,443,true,SJC,North America,San Jose,380 ms
+162.159.194.138,443,true,SJC,North America,San Jose,380 ms
+162.159.194.154,443,true,SJC,North America,San Jose,380 ms
+162.159.193.169,443,true,SJC,North America,San Jose,380 ms
+162.159.194.8,443,true,SJC,North America,San Jose,381 ms
+162.159.194.122,443,true,SJC,North America,San Jose,381 ms
+162.159.195.159,443,true,SJC,North America,San Jose,381 ms
+162.159.193.146,443,true,SJC,North America,San Jose,381 ms
+162.159.194.210,443,true,SJC,North America,San Jose,381 ms
+162.159.194.47,443,true,SJC,North America,San Jose,381 ms
+162.159.195.249,443,true,SJC,North America,San Jose,381 ms
+162.159.194.50,443,true,SJC,North America,San Jose,382 ms
+162.159.193.62,443,true,SJC,North America,San Jose,382 ms
+162.159.193.251,443,true,SJC,North America,San Jose,382 ms
+162.159.194.59,443,true,SJC,North America,San Jose,382 ms
+162.159.193.225,443,true,SJC,North America,San Jose,382 ms
+162.159.195.119,443,true,SJC,North America,San Jose,383 ms
+162.159.194.191,443,true,SJC,North America,San Jose,383 ms
+162.159.193.227,443,true,SJC,North America,San Jose,383 ms
+162.159.193.117,443,true,SJC,North America,San Jose,383 ms
+162.159.193.226,443,true,SJC,North America,San Jose,383 ms
+162.159.195.12,443,true,SJC,North America,San Jose,383 ms
+162.159.193.157,443,true,SJC,North America,San Jose,383 ms
+162.159.193.207,443,true,SJC,North America,San Jose,384 ms
+162.159.193.120,443,true,SJC,North America,San Jose,384 ms
+162.159.194.61,443,true,SJC,North America,San Jose,384 ms
+162.159.195.81,443,true,SJC,North America,San Jose,384 ms
+162.159.194.120,443,true,SJC,North America,San Jose,384 ms
+162.159.194.114,443,true,SJC,North America,San Jose,384 ms
+162.159.193.82,443,true,SJC,North America,San Jose,384 ms
+162.159.194.94,443,true,SJC,North America,San Jose,384 ms
+162.159.193.135,443,true,SJC,North America,San Jose,384 ms
+162.159.193.73,443,true,SJC,North America,San Jose,385 ms
+162.159.193.123,443,true,SJC,North America,San Jose,385 ms
+162.159.193.45,443,true,SJC,North America,San Jose,385 ms
+162.159.194.80,443,true,SJC,North America,San Jose,385 ms
+162.159.194.57,443,true,SJC,North America,San Jose,385 ms
+162.159.195.197,443,true,SJC,North America,San Jose,385 ms
+162.159.193.99,443,true,SJC,North America,San Jose,385 ms
+162.159.193.14,443,true,SJC,North America,San Jose,385 ms
+162.159.193.150,443,true,SJC,North America,San Jose,385 ms
+162.159.193.35,443,true,SJC,North America,San Jose,386 ms
+162.159.193.26,443,true,SJC,North America,San Jose,386 ms
+162.159.192.215,443,true,SJC,North America,San Jose,386 ms
+162.159.193.127,443,true,SJC,North America,San Jose,386 ms
+162.159.195.198,443,true,SJC,North America,San Jose,386 ms
+162.159.194.91,443,true,SJC,North America,San Jose,386 ms
+162.159.194.106,443,true,SJC,North America,San Jose,386 ms
+162.159.193.2,443,true,SJC,North America,San Jose,387 ms
+162.159.193.6,443,true,SJC,North America,San Jose,387 ms
+162.159.193.195,443,true,SJC,North America,San Jose,387 ms
+162.159.194.228,443,true,SJC,North America,San Jose,387 ms
+162.159.195.63,443,true,SJC,North America,San Jose,387 ms
+162.159.194.152,443,true,SJC,North America,San Jose,388 ms
+162.159.192.248,443,true,SJC,North America,San Jose,388 ms
+162.159.194.139,443,true,SJC,North America,San Jose,388 ms
+162.159.194.224,443,true,SJC,North America,San Jose,388 ms
+162.159.194.20,443,true,SJC,North America,San Jose,388 ms
+162.159.193.44,443,true,SJC,North America,San Jose,388 ms
+162.159.193.94,443,true,SJC,North America,San Jose,388 ms
+162.159.192.120,443,true,SJC,North America,San Jose,389 ms
+162.159.193.125,443,true,SJC,North America,San Jose,389 ms
+162.159.194.103,443,true,SJC,North America,San Jose,389 ms
+162.159.193.81,443,true,SJC,North America,San Jose,389 ms
+162.159.193.245,443,true,SJC,North America,San Jose,389 ms
+162.159.194.24,443,true,SJC,North America,San Jose,389 ms
+162.159.194.208,443,true,SJC,North America,San Jose,389 ms
+162.159.195.167,443,true,SJC,North America,San Jose,389 ms
+162.159.193.155,443,true,SJC,North America,San Jose,389 ms
+162.159.195.135,443,true,SJC,North America,San Jose,389 ms
+162.159.194.48,443,true,SJC,North America,San Jose,389 ms
+162.159.194.42,443,true,SJC,North America,San Jose,389 ms
+162.159.193.218,443,true,SJC,North America,San Jose,389 ms
+162.159.194.52,443,true,SJC,North America,San Jose,390 ms
+162.159.193.183,443,true,SJC,North America,San Jose,390 ms
+162.159.194.238,443,true,SJC,North America,San Jose,390 ms
+162.159.195.10,443,true,SJC,North America,San Jose,390 ms
+162.159.192.142,443,true,SJC,North America,San Jose,390 ms
+162.159.194.107,443,true,SJC,North America,San Jose,390 ms
+162.159.194.135,443,true,SJC,North America,San Jose,390 ms
+162.159.194.130,443,true,SJC,North America,San Jose,391 ms
+162.159.192.66,443,true,SJC,North America,San Jose,391 ms
+162.159.193.68,443,true,SJC,North America,San Jose,391 ms
+162.159.193.76,443,true,SJC,North America,San Jose,391 ms
+162.159.194.100,443,true,SJC,North America,San Jose,391 ms
+162.159.194.133,443,true,SJC,North America,San Jose,391 ms
+162.159.194.84,443,true,SJC,North America,San Jose,391 ms
+162.159.194.96,443,true,SJC,North America,San Jose,391 ms
+162.159.194.131,443,true,SJC,North America,San Jose,391 ms
+162.159.194.250,443,true,SJC,North America,San Jose,392 ms
+162.159.195.192,443,true,SJC,North America,San Jose,392 ms
+162.159.194.134,443,true,SJC,North America,San Jose,392 ms
+162.159.194.123,443,true,SJC,North America,San Jose,392 ms
+162.159.195.32,443,true,SJC,North America,San Jose,392 ms
+162.159.193.38,443,true,SJC,North America,San Jose,393 ms
+162.159.194.32,443,true,SJC,North America,San Jose,393 ms
+162.159.195.213,443,true,SJC,North America,San Jose,393 ms
+162.159.193.85,443,true,SJC,North America,San Jose,393 ms
+162.159.192.199,443,true,SJC,North America,San Jose,393 ms
+162.159.194.151,443,true,SJC,North America,San Jose,394 ms
+162.159.194.159,443,true,SJC,North America,San Jose,394 ms
+162.159.195.245,443,true,SJC,North America,San Jose,395 ms
+162.159.194.185,443,true,SJC,North America,San Jose,395 ms
+162.159.194.111,443,true,SJC,North America,San Jose,395 ms
+162.159.194.3,443,true,SJC,North America,San Jose,395 ms
+162.159.193.139,443,true,SJC,North America,San Jose,395 ms
+162.159.194.7,443,true,SJC,North America,San Jose,395 ms
+162.159.194.35,443,true,SJC,North America,San Jose,395 ms
+162.159.193.101,443,true,SJC,North America,San Jose,395 ms
+162.159.193.233,443,true,SJC,North America,San Jose,396 ms
+162.159.194.236,443,true,SJC,North America,San Jose,396 ms
+162.159.193.39,443,true,SJC,North America,San Jose,396 ms
+162.159.194.41,443,true,SJC,North America,San Jose,396 ms
+162.159.194.0,443,true,SJC,North America,San Jose,397 ms
+162.159.192.60,443,true,SJC,North America,San Jose,397 ms
+162.159.194.1,443,true,SJC,North America,San Jose,397 ms
+162.159.194.242,443,true,SJC,North America,San Jose,397 ms
+162.159.193.194,443,true,SJC,North America,San Jose,397 ms
+162.159.193.158,443,true,SJC,North America,San Jose,397 ms
+162.159.194.51,443,true,SJC,North America,San Jose,397 ms
+162.159.192.190,443,true,SJC,North America,San Jose,398 ms
+162.159.192.220,443,true,SJC,North America,San Jose,398 ms
+162.159.193.102,443,true,SJC,North America,San Jose,399 ms
+162.159.194.205,443,true,SJC,North America,San Jose,399 ms
+162.159.193.96,443,true,SJC,North America,San Jose,400 ms
+162.159.193.239,443,true,SJC,North America,San Jose,400 ms
+162.159.193.237,443,true,SJC,North America,San Jose,400 ms
+162.159.192.71,443,true,SJC,North America,San Jose,400 ms
+162.159.194.165,443,true,SJC,North America,San Jose,400 ms
+162.159.195.137,443,true,SJC,North America,San Jose,400 ms
+162.159.193.170,443,true,SJC,North America,San Jose,400 ms
+162.159.192.183,443,true,SJC,North America,San Jose,400 ms
+162.159.192.109,443,true,SJC,North America,San Jose,400 ms
+162.159.192.194,443,true,SJC,North America,San Jose,401 ms
+162.159.192.243,443,true,SJC,North America,San Jose,401 ms
+162.159.195.27,443,true,SJC,North America,San Jose,401 ms
+162.159.194.184,443,true,SJC,North America,San Jose,402 ms
+162.159.193.223,443,true,SJC,North America,San Jose,402 ms
+162.159.194.253,443,true,SJC,North America,San Jose,402 ms
+162.159.195.24,443,true,SJC,North America,San Jose,402 ms
+162.159.192.158,443,true,SJC,North America,San Jose,403 ms
+162.159.193.46,443,true,SJC,North America,San Jose,403 ms
+162.159.193.83,443,true,SJC,North America,San Jose,403 ms
+162.159.194.66,443,true,SJC,North America,San Jose,403 ms
+162.159.194.249,443,true,SJC,North America,San Jose,403 ms
+162.159.192.135,443,true,SJC,North America,San Jose,404 ms
+162.159.194.203,443,true,SJC,North America,San Jose,404 ms
+162.159.192.24,443,true,SJC,North America,San Jose,404 ms
+162.159.194.121,443,true,SJC,North America,San Jose,404 ms
+162.159.195.199,443,true,SJC,North America,San Jose,404 ms
+162.159.193.219,443,true,SJC,North America,San Jose,404 ms
+162.159.194.15,443,true,SJC,North America,San Jose,405 ms
+162.159.193.64,443,true,SJC,North America,San Jose,405 ms
+162.159.192.253,443,true,SJC,North America,San Jose,405 ms
+162.159.193.228,443,true,SJC,North America,San Jose,405 ms
+162.159.193.23,443,true,SJC,North America,San Jose,405 ms
+162.159.194.155,443,true,SJC,North America,San Jose,405 ms
+162.159.194.116,443,true,SJC,North America,San Jose,406 ms
+162.159.193.56,443,true,SJC,North America,San Jose,406 ms
+162.159.192.100,443,true,SJC,North America,San Jose,406 ms
+162.159.192.45,443,true,SJC,North America,San Jose,406 ms
+162.159.195.147,443,true,SJC,North America,San Jose,406 ms
+162.159.193.17,443,true,SJC,North America,San Jose,406 ms
+162.159.194.202,443,true,SJC,North America,San Jose,406 ms
+162.159.193.24,443,true,SJC,North America,San Jose,406 ms
+162.159.194.180,443,true,SJC,North America,San Jose,406 ms
+162.159.194.215,443,true,SJC,North America,San Jose,407 ms
+162.159.194.158,443,true,SJC,North America,San Jose,407 ms
+162.159.194.68,443,true,SJC,North America,San Jose,407 ms
+162.159.195.29,443,true,SJC,North America,San Jose,407 ms
+162.159.193.36,443,true,SJC,North America,San Jose,407 ms
+162.159.194.156,443,true,SJC,North America,San Jose,407 ms
+162.159.193.84,443,true,SJC,North America,San Jose,407 ms
+162.159.194.142,443,true,SJC,North America,San Jose,407 ms
+162.159.194.127,443,true,SJC,North America,San Jose,408 ms
+162.159.193.55,443,true,SJC,North America,San Jose,408 ms
+162.159.194.232,443,true,SJC,North America,San Jose,408 ms
+162.159.194.37,443,true,SJC,North America,San Jose,408 ms
+162.159.194.39,443,true,SJC,North America,San Jose,408 ms
+162.159.195.186,443,true,SJC,North America,San Jose,409 ms
+162.159.194.14,443,true,SJC,North America,San Jose,409 ms
+162.159.193.231,443,true,SJC,North America,San Jose,409 ms
+162.159.192.143,443,true,SJC,North America,San Jose,409 ms
+162.159.192.249,443,true,SJC,North America,San Jose,409 ms
+162.159.193.104,443,true,SJC,North America,San Jose,410 ms
+162.159.194.157,443,true,SJC,North America,San Jose,410 ms
+162.159.194.93,443,true,SJC,North America,San Jose,410 ms
+162.159.194.110,443,true,SJC,North America,San Jose,410 ms
+162.159.193.69,443,true,SJC,North America,San Jose,410 ms
+162.159.193.222,443,true,SJC,North America,San Jose,410 ms
+162.159.195.246,443,true,SJC,North America,San Jose,411 ms
+162.159.194.129,443,true,SJC,North America,San Jose,411 ms
+162.159.192.6,443,true,SJC,North America,San Jose,411 ms
+162.159.193.97,443,true,SJC,North America,San Jose,411 ms
+162.159.195.142,443,true,SJC,North America,San Jose,412 ms
+162.159.192.234,443,true,SJC,North America,San Jose,414 ms
+162.159.192.108,443,true,SJC,North America,San Jose,414 ms
+162.159.192.12,443,true,SJC,North America,San Jose,415 ms
+162.159.195.191,443,true,SJC,North America,San Jose,415 ms
+162.159.195.188,443,true,SJC,North America,San Jose,417 ms
+162.159.195.233,443,true,SJC,North America,San Jose,417 ms
+162.159.192.15,443,true,SJC,North America,San Jose,418 ms
+162.159.192.27,443,true,SJC,North America,San Jose,418 ms
+162.159.194.171,443,true,SJC,North America,San Jose,420 ms
+162.159.195.243,443,true,SJC,North America,San Jose,421 ms
+162.159.195.15,443,true,SJC,North America,San Jose,421 ms
+162.159.195.251,443,true,SJC,North America,San Jose,422 ms
+162.159.195.212,443,true,SJC,North America,San Jose,422 ms
+162.159.195.196,443,true,SJC,North America,San Jose,423 ms
+162.159.195.181,443,true,SJC,North America,San Jose,423 ms
+162.159.195.171,443,true,SJC,North America,San Jose,423 ms
+162.159.195.138,443,true,SJC,North America,San Jose,423 ms
+162.159.195.136,443,true,SJC,North America,San Jose,426 ms
+162.159.192.110,443,true,SJC,North America,San Jose,426 ms
+162.159.195.14,443,true,SJC,North America,San Jose,428 ms
+162.159.195.158,443,true,SJC,North America,San Jose,428 ms
+162.159.192.62,443,true,SJC,North America,San Jose,430 ms
+162.159.192.246,443,true,SJC,North America,San Jose,430 ms
+162.159.192.165,443,true,SJC,North America,San Jose,431 ms
+162.159.192.209,443,true,SJC,North America,San Jose,431 ms
+162.159.195.103,443,true,SJC,North America,San Jose,432 ms
+162.159.195.122,443,true,SJC,North America,San Jose,432 ms
+162.159.192.74,443,true,SJC,North America,San Jose,434 ms
+162.159.192.79,443,true,SJC,North America,San Jose,434 ms
+162.159.195.193,443,true,SJC,North America,San Jose,434 ms
+162.159.192.191,443,true,SJC,North America,San Jose,436 ms
+162.159.195.133,443,true,SJC,North America,San Jose,436 ms
+162.159.192.193,443,true,SJC,North America,San Jose,437 ms
+162.159.192.251,443,true,SJC,North America,San Jose,437 ms
+162.159.195.229,443,true,SJC,North America,San Jose,438 ms
+162.159.195.190,443,true,SJC,North America,San Jose,440 ms
+162.159.195.211,443,true,SJC,North America,San Jose,442 ms
+162.159.192.111,443,true,SJC,North America,San Jose,442 ms
+162.159.192.68,443,true,SJC,North America,San Jose,443 ms
+162.159.195.87,443,true,SJC,North America,San Jose,444 ms
+162.159.195.47,443,true,SJC,North America,San Jose,444 ms
+162.159.195.253,443,true,SJC,North America,San Jose,445 ms
+162.159.192.203,443,true,SJC,North America,San Jose,445 ms
+162.159.195.206,443,true,SJC,North America,San Jose,446 ms
+162.159.195.160,443,true,SJC,North America,San Jose,448 ms
+162.159.192.236,443,true,SJC,North America,San Jose,452 ms
+162.159.195.215,443,true,SJC,North America,San Jose,452 ms
+162.159.195.194,443,true,SJC,North America,San Jose,452 ms
+162.159.195.73,443,true,SJC,North America,San Jose,454 ms
+162.159.195.209,443,true,SJC,North America,San Jose,454 ms
+162.159.192.81,443,true,SJC,North America,San Jose,456 ms
+162.159.192.149,443,true,SJC,North America,San Jose,457 ms
+162.159.192.146,443,true,SJC,North America,San Jose,458 ms
+162.159.195.45,443,true,SJC,North America,San Jose,460 ms
+162.159.195.110,443,true,SJC,North America,San Jose,461 ms
+162.159.192.150,443,true,SJC,North America,San Jose,462 ms
+162.159.195.151,443,true,SJC,North America,San Jose,465 ms
+162.159.192.148,443,true,SJC,North America,San Jose,466 ms
+162.159.192.89,443,true,SJC,North America,San Jose,466 ms
+162.159.192.97,443,true,SJC,North America,San Jose,466 ms
+162.159.195.217,443,true,SJC,North America,San Jose,468 ms
+162.159.195.149,443,true,SJC,North America,San Jose,477 ms
+162.159.192.153,443,true,SJC,North America,San Jose,477 ms
+162.159.192.238,443,true,SJC,North America,San Jose,480 ms
+162.159.195.82,443,true,SJC,North America,San Jose,484 ms
+162.159.195.69,443,true,SJC,North America,San Jose,487 ms
+162.159.192.28,443,true,SJC,North America,San Jose,487 ms
+162.159.195.55,443,true,SJC,North America,San Jose,492 ms
+162.159.192.228,443,true,SJC,North America,San Jose,497 ms
+162.159.195.124,443,true,SJC,North America,San Jose,501 ms
+162.159.195.244,443,true,SJC,North America,San Jose,504 ms
+162.159.192.219,443,true,SJC,North America,San Jose,504 ms
+162.159.195.230,443,true,SJC,North America,San Jose,508 ms
+162.159.195.51,443,true,SJC,North America,San Jose,509 ms
+162.159.195.88,443,true,SJC,North America,San Jose,512 ms
+162.159.192.147,443,true,SJC,North America,San Jose,517 ms
+162.159.192.212,443,true,SJC,North America,San Jose,518 ms
+162.159.195.79,443,true,SJC,North America,San Jose,523 ms
+162.159.192.61,443,true,SJC,North America,San Jose,523 ms
+162.159.195.232,443,true,SJC,North America,San Jose,523 ms
+162.159.195.123,443,true,SJC,North America,San Jose,524 ms
+162.159.192.173,443,true,SJC,North America,San Jose,525 ms
+162.159.195.225,443,true,SJC,North America,San Jose,528 ms
+162.159.192.115,443,true,SJC,North America,San Jose,529 ms
+162.159.192.169,443,true,SJC,North America,San Jose,531 ms
+162.159.195.223,443,true,SJC,North America,San Jose,532 ms
+162.159.195.75,443,true,SJC,North America,San Jose,532 ms
+162.159.192.93,443,true,SJC,North America,San Jose,542 ms
+162.159.192.118,443,true,SJC,North America,San Jose,553 ms
+162.159.192.195,443,true,SJC,North America,San Jose,553 ms
+162.159.192.164,443,true,SJC,North America,San Jose,558 ms
+162.159.192.88,443,true,SJC,North America,San Jose,564 ms
+162.159.192.107,443,true,SJC,North America,San Jose,565 ms
+162.159.192.63,443,true,SJC,North America,San Jose,573 ms
+162.159.192.188,443,true,SJC,North America,San Jose,574 ms
+162.159.192.67,443,true,SJC,North America,San Jose,579 ms
+162.159.195.31,443,true,SJC,North America,San Jose,580 ms
+162.159.192.159,443,true,SJC,North America,San Jose,580 ms
+162.159.192.59,443,true,SJC,North America,San Jose,581 ms
+162.159.195.239,443,true,SJC,North America,San Jose,581 ms
+162.159.192.72,443,true,SJC,North America,San Jose,585 ms
+162.159.192.155,443,true,SJC,North America,San Jose,594 ms
+162.159.192.105,443,true,SJC,North America,San Jose,613 ms
+162.159.192.137,443,true,SJC,North America,San Jose,622 ms
+162.159.195.6,443,true,SJC,North America,San Jose,628 ms
+162.159.195.22,443,true,SJC,North America,San Jose,631 ms
+162.159.195.19,443,true,SJC,North America,San Jose,634 ms
+162.159.192.57,443,true,SJC,North America,San Jose,637 ms

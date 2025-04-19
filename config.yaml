@@ -1,0 +1,38 @@
+- type: vless
+  uuid: 0196419b-ca24-744d-b478-93c88e825224
+  host: vless.username.workers.dev
+  sni: vless.username.workers.dev
+  path: /?ed=2048
+  tls: false
+- type: vless
+  uuid: 01964a75-000f-70aa-a138-c492d612735a
+  host: vless.pages.dev
+  sni: vless.pages.dev
+  path: /?ed=2048
+  alpn: h3 # 可以省略，改为h2不能使用的
+  tls: true
+- type: trojan
+  password: Eb3qT3I1I9R0KG5b
+  host: trojan.username.workers.dev
+  sni: trojan.username.workers.dev
+  path: /
+  tls: false
+- type: trojan
+  password: S7Y303403TxY5xvg
+  host: trojan.pages.dev
+  sni: trojan.pages.dev
+  path: /
+  alpn: h3 # 可以省略，改为h2不能使用的
+  tls: true # 可以省略
+- type: ss
+  cipher: none # 可以省略
+  password: none # 可以省略
+  host: ss1.pages.dev
+  path: /192.168.1.1-443
+  tls: false
+- type: ss
+  cipher: none # 可以省略
+  password: none # 可以省略
+  host: ss2.pages.dev
+  path: /192.168.1.1-443
+  tls: true
