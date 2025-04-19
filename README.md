@@ -1,4 +1,4 @@
-Windows系统下的CLI程序工具，主要用于构建cf节点的分享链接，支持vless/trojan+ws[+tls]、shadowsocks+v2ray-plugin+websocket[+tls]。
+Windows系统下的CLI程序工具，主要用于构建cf节点的分享链接，支持vless+ws[+tls]、trojan+ws[+tls]、shadowsocks+v2ray-plugin+websocket[+tls]。
 
 ## CLI命令：
 
@@ -41,4 +41,9 @@ Options:
 
 <img src="images\图1.png" />
 
-注意：v2rayN中，可能会过滤掉`shadowsocks`的协议。
+**注意：**
+
+1、v2rayN中，不支持添加`v2ray-plugin`的`shadowsocks`分享链接。
+
+2、从txt或csv文件读取到的端口，跟tls模式的端口冲突，会强行修改端口的。
+
