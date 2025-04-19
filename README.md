@@ -37,7 +37,7 @@ Options:
 
 2、准备`result.csv`数据文件（或者自己通过命令行修改指定文件，支持`*.txt`和`*.csv`格式的文件）
 
-3、运行`build_cfwks_nodes.exe`，结果输出到`output.txt`，将它们辅助到`Nekoray`中使用，如下：
+3、运行`build_cfwks_nodes.exe`，结果输出到`output.txt`，将它们复制到`Nekoray`中使用，如下：
 
 <img src="images\图1.png" />
 
