@@ -1,4 +1,4 @@
-Windows系统下的CLI程序工具，主要用于构建cf节点的分享链接，支持vless+ws[+tls]、trojan+ws[+tls]、shadowsocks+v2ray-plugin+websocket[+tls]。
+这是Windows系统下的CLI程序工具，主要用于构建cf节点的分享链接，支持vless+ws[+tls]、trojan+ws[+tls]、shadowsocks+v2ray-plugin+websocket[+tls]。
 
 ## CLI命令：
 
