@@ -1,33 +1,19 @@
 [package]
 name = "build_vless_trojan_nodes"
-version = "0.1.0"
-edition = "2021"
-
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+version = "2.0.0"
+edition = "2024"
 
 [dependencies]
-serde = "1.0.195"
-serde_json = "1.0.111"
-regex = "1.10.2"
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.9"
+regex = "1.11"
 urlencoding = "2.1.3"
-clipboard = "0.5.0"
-indexmap = "2.1.0"
-ipnetwork = "0.20.0"
+base64 = "0.22.1"
+rand = "0.9.1"
+lazy_static = "1.5.0"
+csv = "1.3.1"
 
-
-[[bin]]
-name = "app1"
-path = "src/1_批量生成vless链接.rs"
-
-[[bin]]
-name = "app2"
-path = "src/2_批量生成trojan链接.rs"
-
-[[bin]]
-name = "app3"
-path = "src/a_不需要配置参数，生成单个链接[Vless或Trojan].rs"
-
-[[bin]]
-name = "app4"
-path = "src/b_不需要配置参数，批量生成链接[Vless或Trojan].rs"
+# [[bin]]
+# name = "app"
+# path = "testcode/demo.rs"
